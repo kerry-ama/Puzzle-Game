@@ -5,10 +5,13 @@ The puzzle slider game is a combination puzzle game where a player must slide pi
 
 Source Files: 
 >puzzle_game.py -> runs the game and contains all of the helper functions
->leaderboard.txt file -> if a player wins the game, it is added to the file 
+>
+>leaderboard.txt file -> if a player wins the game, it is added to the file
+>
 >5001_puzzle.err -> collects error messages
 
 # 1.2 Game Illustrations
+<img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/mario_unsolved.png" width="300" height="300">
 
 
 # 1.3 Detailed Game Design
