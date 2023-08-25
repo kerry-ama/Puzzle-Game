@@ -1,5 +1,16 @@
 # Puzzle-Game
 
+# 1.1 Puzzle Sliding Game Overview
+The puzzle slider game is a combination puzzle game where a player must slide pieces vertically or horizontally on a board to establish an end result that matches a solution. The pieces moved may consist of shapes, pictures, patterns, letters or numbers. Users must use the mouse to play the game and the use of keyboard action is necessary at the start of the game when user's are prompted to type their name. User interactions are achieved via Python's Turtle module. 
+
+Source Files: 
+puzzle_game.py -> runs the game and contains all of the helper functions
+leaderboard.txt file -> if a player wins the game, it is added to the file 
+5001_puzzle.err -> collects error messages
+
+# 1.2 Game Illustrations
+
+
 # 1.3 Detailed Game Design
 To create my puzzle board game, I took a procedural approach by creating many helper functions, global variables, and one nested function for my program. First off, the opening of the game features a splash screen as well as two user input prompts. These features were created in the screen_opener() function. In order for the game board borders and buttons to be placed on the game board, I created one function, draw_rectangles(), that draws a rectangle using turtle module and three additional functions (draw_leaderboard(), draw_gameboard(), draw_puzzleboard()) to make the three borders as well as place the buttons in the right location. 
 
