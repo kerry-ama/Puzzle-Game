@@ -14,7 +14,7 @@ Source Files:
 <img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/solved_mario.png" width="300" height="300">
 <img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/unsolved_mario.png" width="300" height="300">
 
-![Watch The Video](https://github.com/kerry-ama/Shapes_Photo_Album/blob/main/video3367785876.mp4)
+![Watch The Video](https://github.com/kerry-ama/Puzzle-Game/blob/main/video2475517879.mp4)
 
 
 # 1.3 Detailed Game Design
