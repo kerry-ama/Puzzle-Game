@@ -12,7 +12,7 @@ Source Files:
 
 # 1.2 Game Illustrations
 <img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/solved_mario.png" width="300" height="300">
-
+<img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/unsolved_mario.png" width="300" height="300">
 
 
 # 1.3 Detailed Game Design
