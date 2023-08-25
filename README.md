@@ -14,6 +14,8 @@ Source Files:
 <img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/solved_mario.png" width="300" height="300">
 <img src="https://github.com/kerry-ama/Puzzle-Game/blob/main/unsolved_mario.png" width="300" height="300">
 
+![Watch The Video](https://github.com/kerry-ama/Shapes_Photo_Album/blob/main/video3367785876.mp4)
+
 
 # 1.3 Detailed Game Design
 To create my puzzle board game, I took a procedural approach by creating many helper functions, global variables, and one nested function for my program. First off, the opening of the game features a splash screen as well as two user input prompts. These features were created in the screen_opener() function. In order for the game board borders and buttons to be placed on the game board, I created one function, draw_rectangles(), that draws a rectangle using turtle module and three additional functions (draw_leaderboard(), draw_gameboard(), draw_puzzleboard()) to make the three borders as well as place the buttons in the right location. 
